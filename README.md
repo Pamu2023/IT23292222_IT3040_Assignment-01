@@ -41,7 +41,7 @@ IT3040_Assignment_1/
    playwright install  
 
 4. Run the automation script  
-   python test_automation.py --excel "IT23292222_Test cases.xlsx" --url "https://www.pixelssuite.com/chat-translator"  
+   python IT23292222_test_automation.py --excel "IT23292222_Test cases.xlsx" --url "https://www.pixelssuite.com/chat-translator"  
 
 ---
 
